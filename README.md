@@ -1,6 +1,6 @@
 # Warning
 
-Saya tidak bertanggung jawab apabila terjadi sesuatu kepada anda
-Setelah menggunakan tools saya
 
-# Gunakan dengan bijak
+I am not responsible if something happens to you after using my tool
+
+
